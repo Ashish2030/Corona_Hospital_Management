@@ -1,3 +1,3 @@
 # Corona_Hospital_Management
 # Demo
-https://user-images.githubusercontent.com/61516051/117299241-ee853700-ae95-11eb-8fa3-4eb5dfb68267.mp4
+https://user-images.githubusercontent.com/61516051/117299737-8125d600-ae96-11eb-99ad-3470568d624f.mp4
