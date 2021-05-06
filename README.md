@@ -19,3 +19,12 @@
   
 
 https://user-images.githubusercontent.com/61516051/117299737-8125d600-ae96-11eb-99ad-3470568d624f.mp4
+
+<p align="center">
+    <a href="https://ashish2030.github.io/Corona_Hospital_Management/Hospital.html" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/ashish2030/Corona_Hospital_Management/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/ashish2030/Corona_Hospital_Management/issues/new/choose">Request Feature</a>
+</p>
+
